@@ -10,10 +10,10 @@
 
 .main{
     display: flex;
-    justify-content: space-around;
-    align-items: stretch;
+    justify-content: centre;
+    align-items: centre;
     max-width: 70%;
-    margin: 0px auto;
+    margin: auto;
    
     }
 
@@ -28,7 +28,10 @@
 
     
 .heading-1{
-    text-align: center;
+    display: flex;
+    justify-content: centre;
+    align-items: centre;
+    margin: auto;
     padding-top: -20px;
     padding-bottom: 20px;
     font-family:Arial, Helvetica, sans-serif;
