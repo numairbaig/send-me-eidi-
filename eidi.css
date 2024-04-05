@@ -1,0 +1,124 @@
+
+*{
+    padding: 0%;
+    margin: 0px;
+}
+
+
+body{
+    background-image: url("eidi.jpg");
+
+}
+
+/* transparent card  */
+
+.card{
+    padding: 10px;
+    border-radius: 1em;
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    background-color: #f3f1ec44;
+    box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: rgb(0, 0, 0);
+}
+
+/* payment methos text  */
+
+.payment-methods{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #ffffffe5;
+}
+
+/* easypaisa block  */
+
+.eidi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: rgba(33, 32, 36, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    
+}
+
+/* easypaisa text  */
+
+/* .payment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    color: #63e355fe;
+} */
+/* button  */
+
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:  10px 40px;
+   
+    border: #70bb0870 solid 3px;
+    border-radius: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #cccdc700;
+    box-shadow: rgba(33, 32, 36, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: #e36767;
+}
+
+.btn:hover{
+    color: rgb(255, 255, 255);
+    background-color: #63e355fe;;
+}
+
+
+.card2{
+    padding: 10px;
+    border-radius: 1em;
+    height: 533px;
+    width: 600px;
+    margin: auto;
+    background-color: #f3f1ec44;
+    box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: rgb(0, 0, 0);
+}
+
+.eidi2{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: rgba(33, 32, 36, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+.card3{
+    padding: 10px;
+    border-radius: 1em;
+    height: 70px;
+    width: 600px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: #f5b1045b;
+    box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: rgb(255, 255, 255);
+}
